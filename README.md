@@ -1,2 +1,2 @@
 # MachineLab
-Aya's Machine Lab repository for homework adn assignments
+Aya Gabitkyzy's Machine Lab repository for homework and assignments
