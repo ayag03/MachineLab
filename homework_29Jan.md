@@ -5,7 +5,7 @@ https://www.pinterest.ca/gabitayazhan/flowernature-moodboard/
 Each scene could have some different flowers moving, butterflies flying and 
 a forest scene with other animals, and so on. 
 ##2. 12 hours-12 Zodiac Signs. 
-Inspiration from the Dior clock in NYC:
+-Inspiration from the Dior clock in NYC:
 https://www.youtube.com/watch?v=Lds3eUNVZXU
 https://www.timeout.com/newyork/news/heres-why-theres-a-giant-zodiac-display-on-the-saks-fifth-avenue-facade-102023
 ##3. University life/Life at NYUAD
