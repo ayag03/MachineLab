@@ -14,7 +14,7 @@ At nighttime, the enchanting flower scene on the mechanical clock begins with cl
 As dawn breaks and the sun starts to rise, a cleverly integrated mechanism, perhaps using a small motor and gears, orchestrates the gradual opening of the flower's petals. Picture the petals unfurling gracefully, creating a mesmerizing transformation reminiscent of a blooming flower at the break of day.
 
 As the clock transitions into full daylight, another set of mechanical components comes into play. Tiny butterflies, bees, and other insects, crafted with lightweight materials, can be mounted on rotating arms. These arms are intricately connected to a gear system, driven by a motor. With the rise of the sun, these delightful creatures come to life, circling the flower in a harmonious dance.
-[](https://drive.google.com/file/d/1DrBP91qit2QB4cXv3PnHhzz1kKPj9FP6/view?usp=drive_link)
+https://drive.google.com/file/d/1DrBP91qit2QB4cXv3PnHhzz1kKPj9FP6/view?usp=drive_link
 #### Sound: 
 serene wildlife background along with bees buzzing and butterfly wings fluttering
 #### Materials:
