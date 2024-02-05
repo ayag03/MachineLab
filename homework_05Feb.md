@@ -1,4 +1,5 @@
 # Theme:Nature by Aya, Evelyn, Ehtisham, Noah
+![general](https://github.com/ayag03/MachineLab/blob/main/images/general4.png)
 https://drive.google.com/file/d/1WZbr2b-47aLLh161QAMJCsxwvsG1rHnn/view?usp=drive_link
 ## 4 Projects:
 Find them [here](https://github.com/npietrafesa/MachineLab/blob/main/assignments/homework_05Feb.md)
