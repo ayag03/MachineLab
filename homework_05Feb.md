@@ -28,6 +28,9 @@ the floret disk, bees and butterflies’ ears.
 Arduino, jumper wires, servo motors, wires for flower wireframe, circular metal frame with rotating arm.
 #### Photo/video inspo:
 https://www.youtube.com/watch?v=Y1MOaF7WLTI
+
 https://www.youtube.com/watch?v=_tYPCZ7L-uw
+
 https://www.youtube.com/watch?v=q3ChTFZk5vI
+
 https://pin.it/4ZyOqn58F
