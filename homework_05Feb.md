@@ -1,6 +1,7 @@
 # Theme:Nature by Aya, Evelyn, Ehtisham, Noah
 https://drive.google.com/file/d/1WZbr2b-47aLLh161QAMJCsxwvsG1rHnn/view?usp=drive_link
 ## 4 Projects:
+Find them [here](https://github.com/npietrafesa/MachineLab/blob/main/assignments/homework_05Feb.md)
 ### 1.Volcano
 ### 2.Aquatic Nature
 ### 3.Birds, sun and moon
