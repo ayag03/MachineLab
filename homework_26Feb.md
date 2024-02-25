@@ -17,9 +17,8 @@ In order to do that, we connected the slipring to the bottom part of the Lazy Su
   
 
 
-https://github.com/ayag03/MachineLab/assets/91026712/273218c2-141b-4e8c-a73e-8df0338e7bdb
 
-
+https://github.com/ayag03/MachineLab/assets/91026712/65c1fb1b-47cf-4f24-bf85-1ad86d6b84a0
 
 
 
@@ -32,54 +31,61 @@ https://github.com/ayag03/MachineLab/assets/91026712/76c96f73-8435-471b-8ffe-3d8
 
 ## Connecting Servo motors for the horse up and down movement
 As the next step, we started working on the horse movement with the servo motor. Spoiler: we had lots of trials and errors!
+
 ![horse](https://github.com/ayag03/MachineLab/blob/main/images/cute_horse.png)
 
--Trial #1: copper wire and 90 degree rotation
+- Trial #1: copper wire and 90 degree rotation
 
 https://github.com/ayag03/MachineLab/assets/91026712/39f54309-1dd1-4873-88dd-0222aa38e698
 
--Trial #2:copper wire and 180 degree rotation
+- Trial #2:copper wire and 180 degree rotation
 
 https://github.com/ayag03/MachineLab/assets/91026712/5842a199-9368-48e2-b662-275d1ed3166c
 
-As you can see, the movement was going horizontal and nothing close to what we envisioned in the classic carousel. That is why, we tried changing the the handle of the servo. 
+As you can see, the movement was going horizontal and nothing close to what we envisioned in the classic carousel. That is why, we tried changing the handle of the servo. 
 
--Trial #3. New handle, and the movement is 👍
+- Trial #3. New handle, and the movement is 👍
 
 https://github.com/ayag03/MachineLab/assets/91026712/1d517107-17db-4a09-89ed-35c6605a26c0
 
--Trial #4. We tried combining the up-down movement with the rotation, and played around with the speed.
+- Trial #4. We tried combining the up-down movement with the rotation, and played around with the speed.
 
 
 https://github.com/ayag03/MachineLab/assets/91026712/363b1d23-f4d2-4643-8738-b2c354391f4c
 
--Bonus trial: it seemed like horse was moving too slow, and therefore the up and down movement was not obvious and clear, so we tried changing the degree change in servo, but our horse went crazy instead😭
+- Bonus trial: it seemed like horse was moving too slow, and therefore the up and down movement was not obvious and clear, so we tried changing the degree change in servo, but our horse went crazy instead😭
 
 https://github.com/ayag03/MachineLab/assets/91026712/079c44e8-ae5a-4af4-b5b3-aaaa7c3df018
 
-Trial #5. We tried changing the sofr wire to something more rigid, hoping that the movement would be more clear. So we attached the horse to servo using a straw. 
+- Trial #5. We tried changing the soft wire to something more rigid, hoping that the movement would be more clear. So we attached the horse to servo using a straw. 
 
 
 https://github.com/ayag03/MachineLab/assets/91026712/0d51ae3e-e60a-444e-af4b-fc50cbbd6125
 
 
 
-https://github.com/ayag03/MachineLab/assets/91026712/c36793f3-3ad6-4e81-95d0-1ef24011acea
+
+https://github.com/ayag03/MachineLab/assets/91026712/b66a842d-473f-47ea-ae87-93ac299e73c3
 
 
 
 
-Trial #6. We were still not satisfied with the movement, as the horse was moving around a lot, so we tried attaching a thread to the servo, and hanging two horses from the opposite sides, so that the thread would be pulling up and down the horses respectively. 
+
+
+
+- Trial #6. We were still not satisfied with the movement, as the horse was moving around a lot, so we tried attaching a thread to the servo, and hanging two horses from the opposite sides, so that the thread would be pulling up and down the horses respectively. 
+
+
+
+https://github.com/ayag03/MachineLab/assets/91026712/4dc6418a-ebb3-46a7-a2c6-6ebcd027bf39
 
 
 
 
-https://github.com/ayag03/MachineLab/assets/91026712/25fccbce-d3ee-48e8-a854-b43bfbf34f9b
 
 
 
-
-Trial #7. The thread still seemed not rigid enough, so we tried replicating the same pulling system with the wire. However, the wire again moved the horses horizontally, and we remmebered why we abondoned it from the first try😅🫨
+- Trial #7. The thread still seemed not rigid enough, so we tried replicating the same pulling system with the wire. However, the wire again moved the horses horizontally, and we remmebered why we abondoned it from the first try😅🫣
 
 
 https://github.com/ayag03/MachineLab/assets/91026712/5c0d6202-0d0f-4ffa-b45b-88168cadc3a6
@@ -87,25 +93,24 @@ https://github.com/ayag03/MachineLab/assets/91026712/5c0d6202-0d0f-4ffa-b45b-881
 
 
 
-
 ### Final trial for now: 
-We came back to the thread and tried rotating the carousel. While, this structure is the best one out of numerous trial we did, we are still not satisfied and want to work more on the horse movement. 
+We came back to the thread and tried rotating the carousel. While, this structure is the best one out of numerous trials we did, we are still not satisfied and want to work more on the horse movement. 
 
 
-https://github.com/ayag03/MachineLab/assets/91026712/82d7835d-cbe8-455c-908b-e32f37966577
 
+https://github.com/ayag03/MachineLab/assets/91026712/4a52cf55-076d-489b-a11c-5e40241f50c3
 
 
 
 ## Next steps
-As we mentioned above, we are not quite content with the horse movement yet, so our next step would be refining that. Our guess for the next trial is trying drilling a hole to the circle, so maybe the tube(straw) would have less space to move around and have more motion control. 
+As we mentioned above, we are not quite content with the horse movement yet, so our next step would be refining that. Our guess for the next trial is to try drilling a hole to the circle, so maybe the tube(straw) would have less space to move around and have more motion control. 
 Also, another rough visualization of the potential structure for the movement.
 
 
 
 https://github.com/ayag03/MachineLab/assets/91026712/8fdaf74e-721c-41a9-90d2-1f8c4b6e17aa
 
-
+### Summary
 1. Fix the horse movement
 2. Test with more horse prototypes
 3. Add neopixels
@@ -114,6 +119,80 @@ https://github.com/ayag03/MachineLab/assets/91026712/8fdaf74e-721c-41a9-90d2-1f8
 
 
 
+## Code
+### DC Motor for rotation
+// Motor A connections
+int enA = 9;
+int in1 = 8;
+int in2 = 7;
+// Motor B connections
+
+
+void setup() {
+	// Set all the motor control pins to outputs
+	pinMode(enA, OUTPUT);
+	//pinMode(enB, OUTPUT);
+	pinMode(in1, OUTPUT);
+	pinMode(in2, OUTPUT);
+
+	
+	// Turn off motors - Initial state
+	digitalWrite(in1, LOW);
+	digitalWrite(in2, LOW);
+	//digitalWrite(in3, LOW);
+	//digitalWrite(in4, LOW);
+}
+
+void loop() {
+	directionControl();
+	delay(1000);
+	//speedControl();
+	delay(1000);
+}
+
+// This function lets you control spinning direction of motors
+void directionControl() {
+	// Set motors to maximum speed
+	// For PWM maximum possible values are 0 to 255
+	//analogWrite(enA, 255);
+	//analogWrite(enB, 255);
+
+	// Turn on motor A & B
+	digitalWrite(in1, HIGH);
+	digitalWrite(in2, LOW);
+	//digitalWrite(in3, HIGH);
+	//digitalWrite(in4, LOW);
+	delay(2000);
+  analogWrite(enA, 70);
+
+
+}
+
+
+### Servo Motor for up and down movement
+
+#include <Servo.h>
+
+Servo myservo;  // create servo object to control a servo
+// twelve servo objects can be created on most boards
+
+int pos = 0;    // variable to store the servo position
+
+void setup() {
+  myservo.attach(9);  // attaches the servo on pin 9 to the servo object
+}
+
+void loop() {
+  for (pos = 0; pos <= 180; pos += 2) { // goes from 0 degrees to 180 degrees
+    // in steps of 1 degree
+    myservo.write(pos);              // tell servo to go to position in variable 'pos'
+    delay(15);                       // waits 15 ms for the servo to reach the position
+  }
+  for (pos = 180; pos >= 0; pos -= 2) { // goes from 180 degrees to 0 degrees
+    myservo.write(pos);              // tell servo to go to position in variable 'pos'
+    delay(15);                       // waits 15 ms for the servo to reach the position
+  }
+}
 
 
 
