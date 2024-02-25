@@ -60,12 +60,17 @@ https://github.com/ayag03/MachineLab/assets/91026712/0d51ae3e-e60a-444e-af4b-fc5
 
 
 
+https://github.com/ayag03/MachineLab/assets/91026712/c36793f3-3ad6-4e81-95d0-1ef24011acea
+
+
+
 
 Trial #6. We were still not satisfied with the movement, as the horse was moving around a lot, so we tried attaching a thread to the servo, and hanging two horses from the opposite sides, so that the thread would be pulling up and down the horses respectively. 
 
 
 
-https://github.com/ayag03/MachineLab/assets/91026712/06644107-e8bb-4e5f-b588-630b0917da6d
+
+https://github.com/ayag03/MachineLab/assets/91026712/25fccbce-d3ee-48e8-a854-b43bfbf34f9b
 
 
 
@@ -73,10 +78,18 @@ https://github.com/ayag03/MachineLab/assets/91026712/06644107-e8bb-4e5f-b588-630
 Trial #7. The thread still seemed not rigid enough, so we tried replicating the same pulling system with the wire. However, the wire again moved the horses horizontally, and we remmebered why we abondoned it from the first try😅🫨
 
 
+https://github.com/ayag03/MachineLab/assets/91026712/5c0d6202-0d0f-4ffa-b45b-88168cadc3a6
+
+
+
 
 
 ### Final trial for now: 
 We came back to the thread and tried rotating the carousel. While, this structure is the best one out of numerous trial we did, we are still not satisfied and want to work more on the horse movement. 
+
+
+https://github.com/ayag03/MachineLab/assets/91026712/82d7835d-cbe8-455c-908b-e32f37966577
+
 
 
 
@@ -89,7 +102,11 @@ Also, another rough visualization of the potential structure for the movement.
 https://github.com/ayag03/MachineLab/assets/91026712/8fdaf74e-721c-41a9-90d2-1f8c4b6e17aa
 
 
-
+1. Fix the horse movement
+2. Test with more horse prototypes
+3. Add neopixels
+4. Build a prototype dome to hide all the hardware on top, and do a final test.
+5. Start working on the actual model: building a stage, hiding the metal tube, generally decorate the carousel, add colors and magic!
 
 
 
