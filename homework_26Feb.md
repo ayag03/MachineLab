@@ -28,10 +28,57 @@ https://github.com/ayag03/MachineLab/assets/91026712/76c96f73-8435-471b-8ffe-3d8
 
 ## Connecting Servo motors for the horse up and down movement
 As the next step, we started working on the horse movement with the servo motor. Spoiler: we had lots of trials and errors!
+![horse](https://github.com/ayag03/MachineLab/blob/main/images/horse.png)
 
 -Trial #1: copper wire and 90 degree rotation
 
 https://github.com/ayag03/MachineLab/assets/91026712/39f54309-1dd1-4873-88dd-0222aa38e698
+
+-Trial #2:copper wire and 180 degree rotation
+
+https://github.com/ayag03/MachineLab/assets/91026712/5842a199-9368-48e2-b662-275d1ed3166c
+
+As you can see, the movement was going horizontal and nothing close to what we envisioned in the classic carousel. That is why, we tried changing the the handle of the servo. 
+
+-Trial #3. New handle, and the movement is 👍
+
+https://github.com/ayag03/MachineLab/assets/91026712/1d517107-17db-4a09-89ed-35c6605a26c0
+
+-Trial #4. We tried combining the up-down movement with the rotation, and played around with the speed.
+
+
+https://github.com/ayag03/MachineLab/assets/91026712/363b1d23-f4d2-4643-8738-b2c354391f4c
+
+-Bonus trial: it seemed like horse was moving too slow, and therefore the up and down movement was not obvious and clear, so we tried changing the degree change in servo, but our horse went crazy instead😭
+
+https://github.com/ayag03/MachineLab/assets/91026712/079c44e8-ae5a-4af4-b5b3-aaaa7c3df018
+
+Trial #5. We tried changing the sofr wire to something more rigid, hoping that the movement would be more clear. So we attached the horse to servo using a straw. 
+
+
+
+Trial #6. We were still not satisfied with the movement, as the horse was moving around a lot, so we tried attaching a thread to the servo, and hanging two horses from the opposite sides, so that the thread would be pulling up and down the horses respectively. 
+
+
+
+
+Trial #7. The thread still seemed not rigid enough, so we tried replicating the same pulling system with the wire. However, the wire again moved the horses horizontally, and we remmebered why we abondoned it from the first try😅🫨
+
+
+
+
+### Final trial for now: 
+We came back to the thread and tried rotating the carousel. While, this structure is the best one out of numerous trial we did, we are still not satisfied and want to work more on the horse movement. 
+
+
+
+## Next steps
+As we mentioned above, we are not quite content with the horse movement yet, so our next step would be refining that. Our guess for the next trial is trying drilling a hole to the circle, so maybe the tube(straw) would have less space to move around and have more motion control. 
+Also, another rough visualization of the potential structure for the movement.
+
+
+
+
 
 
 
