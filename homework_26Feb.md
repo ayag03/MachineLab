@@ -22,7 +22,7 @@ https://github.com/ayag03/MachineLab/assets/91026712/76c96f73-8435-471b-8ffe-3d8
 
 - Finally, we mounted the metal square tube, placed the wires inside, connected them correspondingly to Arduino, powered the DC motor that rotates the carousel and verified that all the connection work well while rotating. Yay, success of the day!
 
-https://github.com/ayag03/MachineLab/blob/f141a7539fa209489524cde02e163b0df62410d5/images/power_yes_rotate.MOV
+
 
 
 
@@ -30,6 +30,10 @@ https://github.com/ayag03/MachineLab/blob/f141a7539fa209489524cde02e163b0df62410
 As the next step, we started working on the horse movement with the servo motor. Spoiler: we had lots of trials and errors!
 
 -Trial #1: copper wire and 90 degree rotation
+
+https://github.com/ayag03/MachineLab/assets/91026712/39f54309-1dd1-4873-88dd-0222aa38e698
+
+
 
 
 
