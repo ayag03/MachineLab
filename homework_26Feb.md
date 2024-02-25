@@ -15,7 +15,10 @@ In order to do that, we connected the slipring to the bottom part of the Lazy Su
 ![soldering](https://github.com/ayag03/MachineLab/blob/main/images/solder.png)
 - Next, before mounting the whole structure, we first checked all the wire connections by giving power to the Arduino and everything worked well!
   
-https://github.com/ayag03/MachineLab/blob/f141a7539fa209489524cde02e163b0df62410d5/images/arduino_supply.MOV
+
+
+https://github.com/ayag03/MachineLab/assets/91026712/76c96f73-8435-471b-8ffe-3d875560e2c2
+
 
 - Finally, we mounted the metal square tube, placed the wires inside, connected them correspondingly to Arduino, powered the DC motor that rotates the carousel and verified that all the connection work well while rotating. Yay, success of the day!
 
@@ -24,6 +27,9 @@ https://github.com/ayag03/MachineLab/blob/f141a7539fa209489524cde02e163b0df62410
 
 
 ## Connecting Servo motors for the horse up and down movement
+As the next step, we started working on the horse movement with the servo motor. Spoiler: we had lots of trials and errors!
 
-  
+-Trial #1: copper wire and 90 degree rotation
+
+
 
